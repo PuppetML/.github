@@ -4,11 +4,11 @@
    
  <div>
    
-   **PuppetML** is a non-profit NGO to improve and positively contribute to collective well-being. Our powerful tools with Machine Learning help people every day in a pleasant way to improve their routine and everyday life.
+   PuppetML is a non-profit NGO to improve and positively contribute to collective well-being. Our powerful tools with Machine Learning help people every day in a pleasant way to improve their routine and everyday life.
      
  </div>
    
- <h1 align="center">Objective</h1>
+ <h2>Objective</h2>
    
  <div>
        
@@ -18,11 +18,11 @@
      
  </div>
 
- <h1 align="center">Our projects</h1>
+ <h2>Our projects</h2>
 
  <div>
 
-   <h3>STOKIYOU</h3>
+   <h4>STOKIYOU</h4>
 
    STOKIYOU are the initials of the English phrase Stop killing yourself which literally means Stop killing yourself. 
    
@@ -32,7 +32,7 @@
 
    <p></p>
 
-   <h3>MAIA</h3>
+   <h4>MAIA</h4>
 
    Still under construction, MAIA is a virtual psychologist in the form of a bot for Telegram.
 
