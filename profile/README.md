@@ -12,7 +12,7 @@
    
  <div>
        
-   **PuppetML** is a non-profit organization for developing artificial intelligence algorithms that contribute to human development and well-being. 
+   PuppetML is a non-profit organization for developing artificial intelligence algorithms that contribute to human development and well-being. 
    
    Our programs will always be open to any developer who is willing to help with our project. We are looking for people capable of helping those who need it most, if you want to revolutionize the world, don't hesitate, come with us and change society for the better.
      
